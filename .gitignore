@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# C extensions
+*.c
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+
+# Django specific
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+
+# Local environment variables
+.env
+
+# Certificates
+*.crt
+*.key
+
+# VSCode project files
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE specific files
+.idea/
+*.iml
+
+# Python coverage files
+.coverage
+htmlcov/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Redis
+*.rdb
+
+# Docker
+*.pid
+
+# obsidian
+.obsidian
